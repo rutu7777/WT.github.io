@@ -1,0 +1,78 @@
+body
+{
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+background-image: url(https://img.freepik.com/premium-vector/low-poly-abstract-background-design_1048-10886.jpg?w=360);
+background-size: cover;
+background-position: center;
+}
+
+
+
+
+.sign-in-form
+{
+  width:300px;
+  height: 400px;
+  box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+  background: lightcyan;
+  padding: 50px;
+  margin: 2% auto 0;
+  text-align: center;
+
+  border-top: 7px double rgb(27, 93, 234);
+  border-bottom: 7px double rgb(21, 90, 228);
+  border-right: 7px double rgb(14, 101, 231);
+  border-left: 7px double rgb(15, 69, 230);
+} 
+ 
+
+
+
+.sign-in-form h1
+{
+color: #1c8adb;
+margin-bottom: 30px;
+}
+
+.input-box
+{
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px 0;
+  width: 100%;
+  border: 3px solid #e77373;
+  outline: none;
+}
+
+button
+{
+  color: #fff;
+  width: 100%;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  margin: 10px 0;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.signin-btn
+{
+  background-color: #1c8adb;
+}
+
+img
+{
+width: 90px;
+margin-top: -70px;
+}
+
+h1{
+  width:auto;
+  color: rgba(16, 16, 242, 0.879);
+  margin-top: 50px;
+}
+
